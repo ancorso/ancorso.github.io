@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Anthony Corso"
-  avatar           : "images/anthony_corso.jpg"
+  avatar           : "anthony_corso.jpg"
   bio              : "Executive Director, Stanford Center for AI Safety and Postdoctoral Scholar, Stanford University"
   location         : "Stanford, CA"
   employer         :
