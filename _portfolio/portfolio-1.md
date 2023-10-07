@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "AI and Sustainability"
+excerpt: "Using AI for the development of sustainable resource projects<br/><img src='/images/subsurface_applications.png'>"
 collection: portfolio
 ---
 
