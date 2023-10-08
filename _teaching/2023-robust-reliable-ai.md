@@ -9,7 +9,7 @@ date: 2023-07-01
 
 Designing Robust and Reliable AI Systems (<a href="https://online.stanford.edu/courses/xaa101-designing-reliable-and-robust-ai-systems">SCPD page</a>) was a week-long course covering topics such as ML robustness, explainability, verification, uncertainty quantification and more.
 
-![Course Roadmap](https://ancorso.github.io/images/robust_reliable_ai_roadmap.jpg)
+![Course Roadmap](/images/teaching/robust_reliable_ai_roadmap.jpg)
 
 The course occured over 5 days with 2-hour lectures and homework assignments. The topics covered each day were:
 * Day 1: Robust Machine Learning
