@@ -12,3 +12,9 @@
 .bibbase.bibtex.link {
     margin-left: -0.25em;
 }
+
+.bibbase.author.link {
+    pointer-events: none;
+    cursor: default;
+    text-decoration: none;
+}
