@@ -58,8 +58,7 @@
 @String { icaa        = {International Conference on Assured Autonomy (ICAA)}}
 @String { jais        = {Journal of Aerospace Information Systems}}
 
-@preamble{"\renewcommand*{\mkbibnamefamily}[1]{\ifitemannotation{jointfirst}{\textbf{#1}}{#1}}"}
-
+@preamble{"\newcommand{\addendumasterisk}{\ifbibliography{*}{}}" # "\renewcommand*{\mkbibnamefamily}[1]{\ifitemannotation{jointfirst}{#1\addendumasterisk}{#1}}"}
 
 @unpublished{Jamgochian2023,
     author = {Arec Jamgochian and Hugo Buurmeijer and Kyle H. Wray and Anthony Corso and Mykel J. Kochenderfer},
