@@ -58,7 +58,7 @@
 @String { icaa        = {International Conference on Assured Autonomy (ICAA)}}
 @String { jais        = {Journal of Aerospace Information Systems}}
 
-@preamble{"\newcommand{\addendumasterisk}{\ifbibliography{*}{}}" # "\renewcommand*{\mkbibnamefamily}[1]{\ifitemannotation{jointfirst}{#1\addendumasterisk}{#1}}"}
+@preamble{"\renewcommand*{\mkbibnamefamily}[1]{\ifitemannotation{jointfirst}{#1\ifbibliography{*}{}}{#1}}"}
 
 @unpublished{Jamgochian2023,
     author = {Arec Jamgochian and Hugo Buurmeijer and Kyle H. Wray and Anthony Corso and Mykel J. Kochenderfer},
@@ -243,7 +243,7 @@
 
 @InProceedings{Katz2021dasc,
     author = {Sydney M. Katz and Anthony Corso and Christopher A. Strong and Mykel J. Kochenderfer},
-    author+an = {1=jointfirst;2=jointfirst,3=jointfirst},
+    author+an = {1=jointfirst;2=jointfirst;3=jointfirst},
     booktitle = dasc,
     title = {Verification of image-based neural network controllers using generative models},
     year = {2021},
