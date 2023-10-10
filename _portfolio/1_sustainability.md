@@ -1,6 +1,6 @@
 ---
 title: "AI and Sustainability"
-excerpt: "Using AI for the development of sustainable resource projects<br/><img src='/images/sustainability/subsurface_applications.png'>"
+excerpt: "Using AI for the development of sustainable resource projects<br/><br/><img src='/images/sustainability/subsurface_applications.png'>"
 collection: portfolio
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "POMDP Planning"
-excerpt: "Innovations in solving POMDPs with large state, action, and observation spaces<br/><img src='/images/pomdps/betazero.jpg'>"
+excerpt: "Innovations in solving POMDPs with large state, action, and observation spaces<br/><br/><img src='/images/pomdps/betazero.jpg'>"
 collection: portfolio
 ---
 

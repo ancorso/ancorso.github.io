@@ -1,6 +1,6 @@
 ---
 title: "Safety Validation"
-excerpt: "Using formal and approximate techniques to validate safety-critical autonomy<br/><img src='/images/safety/crash.gif'>"
+excerpt: "Using formal and approximate techniques to validate safety-critical autonomy<br/><br/><img src='/images/safety/crash.gif'>"
 collection: portfolio
 ---
 
